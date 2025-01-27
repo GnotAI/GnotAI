@@ -39,13 +39,14 @@ I am just your average:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
-
-
-
+<br>
+<br>
+<br>
 Probably gonna learn zig soon... cause why not?
+
 ###
-
-
+<br>
+<br>
 
 <h3 align="left">🔥   My Stats :</h3>
 
