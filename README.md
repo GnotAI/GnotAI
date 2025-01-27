@@ -41,11 +41,10 @@ I am just your average:
 </div>
 
 ###
+<br clear="both">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/GnotAI/GnotAI/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/GnotAI/GnotAI/output/snake.svg" />
 </picture>
 
 <div align="center">
