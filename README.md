@@ -38,6 +38,7 @@ I am just your average:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
 </div>
 
+Probably gonna learn zig soon... cause why not?
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
