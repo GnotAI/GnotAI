@@ -41,7 +41,6 @@ I am just your average:
 </div>
 <br>
 <br>
-<br>
 Probably gonna learn zig soon... cause why not?
 
 ###
