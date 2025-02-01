@@ -62,6 +62,8 @@ Probably gonna learn zig soon... cause why not?
   <img alt="github-snake" src="https://raw.githubusercontent.com/GnotAI/GnotAI/output/snake.svg" />
 </picture>
 
+<img src="./cat.svg" width="100%" title="Footer">
+
 ###
 
 <div align="center">
